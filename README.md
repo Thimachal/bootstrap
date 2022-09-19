@@ -1,1 +1,1 @@
-# Exercicio utilizando bootstrap
+# Exercicios utilizando bootstrap
